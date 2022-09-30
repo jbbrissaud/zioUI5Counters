@@ -44,7 +44,7 @@ Note: The .gitignore file is a little bit unconventional, indicating what to kee
 
 Why this project:\
 1/ I love Scala, and especially Scala3 for indentation and other goodies.\
-2/ I want the same (powerful) language on the server and on the client. It's simpler to manage, and far simpler for client/server communication.
+2/ I want the same (powerful) language on the server and on the client. It's simpler to manage, and far simpler for client/server communication.\
 3/ I also love ZIO, especially ZIO2. I obviously want a fast parallel server, but also a fast web page, running components in parallel.\
 4/ I want standard components, and to be able to use them with my favourite "react-like" library, Laminar.
 
